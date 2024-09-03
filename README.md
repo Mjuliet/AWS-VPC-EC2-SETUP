@@ -12,7 +12,7 @@ This project will walk you through the process of creating a secure and scalable
 
 1. Navigate to the search bar.
 
-a) Type "VPC", once it pops up, click on it. This will direct you to the Virtual Private Cloud (VPC) page.
+a) Enter 'VPC' in the search bar, and when it appears, select it. This will take you to the Virtual Private Cloud (VPC) dashboard..
 
 ![](./img/1.%20VPC.png)
 
