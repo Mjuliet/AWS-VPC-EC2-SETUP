@@ -1,4 +1,4 @@
-# "Setting Up a Virtual Private Cloud (VPC) with Public Subnet, Route Tables, Internet Gateway, and Launching an EC2 Instance: A Step-by-Step Guide"
+# Setting up a Virtual Private Cloud (VPC) with Public Subnet, Route Tables, Internet Gateway, and Launching an EC2 Instance: A Step-by-Step Guide
 
 
 This project will walk you through the process of creating a secure and scalable virtual network in the cloud using Amazon Web Services (AWS). You'll learn how to:
